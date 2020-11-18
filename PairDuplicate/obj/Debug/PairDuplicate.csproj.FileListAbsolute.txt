@@ -1,0 +1,7 @@
+d:\Projects\CSharp\PairDuplicate\PairDuplicate\bin\Debug\PairВuplicate.exe.config
+d:\Projects\CSharp\PairDuplicate\PairDuplicate\bin\Debug\PairВuplicate.exe
+d:\Projects\CSharp\PairDuplicate\PairDuplicate\bin\Debug\PairВuplicate.pdb
+d:\Projects\CSharp\PairDuplicate\PairDuplicate\obj\Debug\PairDuplicate.csprojAssemblyReference.cache
+d:\Projects\CSharp\PairDuplicate\PairDuplicate\obj\Debug\PairDuplicate.csproj.CoreCompileInputs.cache
+d:\Projects\CSharp\PairDuplicate\PairDuplicate\obj\Debug\PairВuplicate.exe
+d:\Projects\CSharp\PairDuplicate\PairDuplicate\obj\Debug\PairВuplicate.pdb
